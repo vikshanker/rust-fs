@@ -10,6 +10,6 @@ The primary goals of designing and implementing this filesystem are educational.
     - Have complete testing coverage
 - Develop at least one novel feature not commonly found in other filesystems
 
-## Exported Inteface
+## Exported Interface
 
 ## Minimum Viable Product
